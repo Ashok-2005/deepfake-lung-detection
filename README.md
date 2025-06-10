@@ -1,5 +1,5 @@
 # deepfake-lung-detection
-This project focuses on detecting deepfake (synthetically generated) lung CT scan images using Convolutional Neural Networks (CNNs). A custom dataset was generated using GANs to simulate fake medical scans, and both pretrained models (GoogleNet, ResNet-34) and a custom CNN architecture were used to classify real vs. fake images. The project aims to enhance trust and security in AI-assisted medical diagnosis.
+This project focuses on detecting deepfake (synthetically generated) lung CT scan images using Convolutional Neural Networks (CNNs). A custom dataset was generated using GANs to simulate fake medical scans, and both pretrained models (GoogleNet, ResNet-34, VggNet-16) and a custom CNN architecture were used to classify real vs. fake images. The project aims to enhance trust and security in AI-assisted medical diagnosis.
 
 🛠️ **Tech Stack**  
 - Python  
